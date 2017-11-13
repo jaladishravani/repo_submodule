@@ -7,4 +7,8 @@ public class TestUtils {
     {
         System.out.println(str);
     }
+    public static void print_three(String str)
+    {
+        System.out.println(str);
+    }
 }
